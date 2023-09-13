@@ -1,14 +1,16 @@
 Here's a step-by-step guide on how to use my calculator on GitHub:
 
+First of all, if you want to see the result, download the video and watch it ;)
+
 Copy the code: Go to my GitHub repository and locate the calculator html and css code. Select all of the code of the html and copy it.
 
 Open Visual Studio Code: If you don't have Visual Studio Code installed, you can download it from the official website and install it on your computer.
 
 Paste the code: Open Visual Studio Code and create a new html file like (calculator.html). Paste the copied code into the new file.
 
-Repeat the process made before but now with the css code, the file must end with .css instead of .html and again with the javascript file, it must end in .js.
+Repeat the process made before but now with the css code, the file must end with .css instead of .html.
 
-Go to the images file and download all the images, then go to visual studio code where you have the other 2 files and alocate them there.
+Download the Tick image, then go to visual studio code where you have the other 2 files and alocate it there.
 
 Install the Live Server extension: In Visual Studio Code, click on the Extensions icon on the left sidebar (it looks like four squares). 
 
