@@ -1,6 +1,6 @@
-Here's a step-by-step guide on how to use my project on GitHub:
+Here's a step-by-step guide on how to use my popup design on GitHub:
 
-First of all, if you want to see the result, download the video and watch it ;)
+First, if you want to see the result download the Final result mp4 file.
 
 Copy the code: Go to my GitHub repository and locate the html and css files. Select all of the code of the html and copy it.
 
@@ -16,10 +16,9 @@ Install the Live Server extension: In Visual Studio Code, click on the Extension
 
 Search for "Live Server" in the Extensions Marketplace and click on the "Install" button next to the Live Server extension.
 
-Open the HTML file: Locate the HTML file in your project, which contains the code. 
-
 Right-click on the HTML file and select "Open with Live Server" from the context menu.
 
 That's it! You have successfully set up and can now use my popup design from GitHub using Visual Studio Code and the Live Server extension. 
 
 Remember to share the GitHub repository link with others so they can follow these steps to use my popup design as well!
+
